@@ -14,5 +14,6 @@ Other factors to consider: Noise and Light Pollution, Property value changes, he
 ### Resources
 
 - [https://lmisolutions.com/challenges/Data-to-Impact]
+- [https://go.lmisolutions.com/challenges/2026]
 - [https://www.nrel.gov/research/data-tools]
 - [https://data.nrel.gov/submissions]
