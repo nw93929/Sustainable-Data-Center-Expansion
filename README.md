@@ -11,5 +11,6 @@ Data To Impact Challenge hosted by UVA x LMI Solutions
 Other factors to consider: Noise and Light Pollution, Property value changes, heat waste, cybersecurity, regulations, impact on society and transparency and trust, species endangerment, habitat loss, backup generators are often deisel, blackout risks, surveillance issues, traffic, electromagnetic interference, utilities collaboration, monopolization, supply chain strain, foreign land grabs, shared border resources, end-of-life considerations
 
 ### Resources
-[https://lmisolutions.com/challenges/Data-to-Impact]
-[https://www.nrel.gov/research/data-tools]
+
+- [https://lmisolutions.com/challenges/Data-to-Impact]
+- [https://www.nrel.gov/research/data-tools]
