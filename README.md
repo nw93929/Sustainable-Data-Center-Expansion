@@ -13,6 +13,25 @@ Data To Impact Challenge hosted by UVA x LMI Solutions
 
 Other factors to consider: Noise and Light Pollution, Property value changes, heat waste, cybersecurity, regulations, impact on society and transparency and trust, species endangerment, habitat loss, backup generators are often deisel, blackout risks, surveillance issues, traffic, electromagnetic interference, utilities collaboration, monopolization, supply chain strain, foreign land grabs, shared border resources, end-of-life considerations
 
+### Packages
+Core:
+- pandas
+- numpy
+- sklearn
+- tensorflow probability for uncertainty modeling
+- pyomo for optimization after having sklearn model
+- geopandas
+- shapely
+- simpy for simulating equipment uptime and maintanenance
+- plotly dash
+- supplementary packages when needed e.g. pytorch, flask, threading, etc.
+Potential:
+- xarray for high dimensional simulation data
+- statsmodels if time series or simple model, no need for sklearn
+- rasterio to read raster data e.g. elevation, climate, etc.
+- pint for energy unit conversion
+- coolprop for advanced thermal modeling
+
 ### Resources
 
 - [https://lmisolutions.com/challenges/Data-to-Impact]
