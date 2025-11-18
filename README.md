@@ -48,6 +48,10 @@ Potential:
 - coolprop for advanced thermal modeling
 - RISE for notebook presentation
 
+### Data Sources
+- https://data.lib.vt.edu/articles/dataset/The_environmental_footprint_of_data_centers_in_the_United_States/14504913?utm_source=chatgpt.com
+- https://eta-publications.lbl.gov/sites/default/files/2024-12/lbnl-2024-united-states-data-center-energy-usage-report.pdf?utm_source=chatgpt.com
+
 ### Resources
 
 - Challenge Preview: [https://lmisolutions.com/challenges/Data-to-Impact]
