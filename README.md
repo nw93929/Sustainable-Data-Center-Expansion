@@ -18,6 +18,7 @@ Core:
 - pandas
 - numpy
 - sklearn
+- tensorflow
 - tensorflow probability for uncertainty modeling
 - pyomo for optimization after having sklearn model
 - geopandas
