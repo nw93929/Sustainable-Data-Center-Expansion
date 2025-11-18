@@ -13,6 +13,19 @@ Data To Impact Challenge hosted by UVA x LMI Solutions
 
 Other factors to consider: Noise and Light Pollution, Property value changes, heat waste, cybersecurity, regulations, impact on society and transparency and trust, species endangerment, habitat loss, backup generators are often deisel, blackout risks, surveillance issues, traffic, electromagnetic interference, utilities collaboration, monopolization, supply chain strain, foreign land grabs, shared border resources, end-of-life considerations
 
+### Considerations
+Environmental and technical perspectives:
+Using satellite imagery, visualization tools, or data analysis to track impacts on power grids, water use, or land availability.
+
+Policy and planning perspectives:
+Considering how local governments or federal agencies balance competing priorities when approving data center siting and expansion.
+
+Social and cultural perspectives:
+Examining community narratives, workforce implications, or equity concerns surrounding where and how data centers are built.
+
+AI Workflow design:
+Envisioning how AI tools might assist decision-makers, for example, by supporting land-use planners in regions like northern Virginia, where requests for new data centers collide with a complex mix of environmental and economic considerations.
+
 ### Packages
 Core:
 - pandas
