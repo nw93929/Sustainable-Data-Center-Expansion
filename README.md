@@ -25,7 +25,7 @@ Core:
 - shapely
 - simpy for simulating equipment uptime and maintanenance
 - plotly dash
-- supplementary packages when needed e.g. pytorch, threading, etc.
+
 Potential:
 - xarray for high dimensional simulation data
 - statsmodels if time series or simple model, no need for sklearn
