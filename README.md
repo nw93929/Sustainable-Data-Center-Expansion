@@ -68,18 +68,20 @@ Potential:
 ### Notes
 
 Step 1: Gather Data
-        - Data Center Count
-        - Historical energy + water consumption by data centers
-        - Hold off on policy now, we might come back later to work on this
+- Data Center Count
+- Historical energy + water consumption by data centers
+- Hold off on policy now, we might come back later to work on this
+  
 Step 2: Run analysis and modeling
-        - Run some regressions or other models to do predictive modeling
-        - Regress to a $ cost increase per data center in a specific region
-        - What can we do with that? How can we make this “lets fix it”?
-                - Include a water treatment plant?
-                - Include more energy plants?
-                - What would the city need to do to counteract the data center?
+- Run some regressions or other models to do predictive modeling
+- Regress to a $ cost increase per data center in a specific region
+- What can we do with that? How can we make this “lets fix it”?
+   - Include a water treatment plant?
+   - Include more energy plants?
+   - What would the city need to do to counteract the data center?
+ 
 Step 3: Develop interesting dashboard or interactive web app to display data
-        - Possibly include a cool map
-        - Overlays on a map for water and energy.
-        - Focus the “story” of the data on: *What is the cost of data centers for a consumer?*
+- Possibly include a cool map
+- Overlays on a map for water and energy.
+- Focus the “story” of the data on: *What is the cost of data centers for a consumer?*
 
