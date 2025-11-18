@@ -38,6 +38,7 @@ Core:
 - shapely
 - simpy for simulating equipment uptime and maintanenance
 - plotly dash
+- prefect for workflow management
 
 Potential:
 - xarray for high dimensional simulation data
@@ -53,3 +54,4 @@ Potential:
 - NREL Data Tools: [https://www.nrel.gov/research/data-tools]
 - NREL Data: [https://data.nrel.gov/submissions]
 - Example Planning Tool: [https://www.urbansim.com/]
+- Urbanism Github: [https://udst.github.io/urbansim/gettingstarted.html]
