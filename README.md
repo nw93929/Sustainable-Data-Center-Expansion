@@ -61,7 +61,7 @@ Potential:
 - NREL Data: [https://data.nrel.gov/submissions]
 - Example Planning Tool: [https://www.urbansim.com/]
 - Urbanism Github: [https://udst.github.io/urbansim/gettingstarted.html]
-
+- Data Centers: [https://www.datacenters.com/locations/united-states/virginia]
 
 
 
