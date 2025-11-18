@@ -35,8 +35,8 @@ Potential:
 
 ### Resources
 
-- [https://lmisolutions.com/challenges/Data-to-Impact]
-- [https://go.lmisolutions.com/challenges/2026]
-- [https://www.nrel.gov/research/data-tools]
-- [https://data.nrel.gov/submissions]
-- [https://www.urbansim.com/]
+- Challenge Preview: [https://lmisolutions.com/challenges/Data-to-Impact]
+- Challenge Info: [https://go.lmisolutions.com/challenges/2026]
+- NREL Data Tools: [https://www.nrel.gov/research/data-tools]
+- NREL Data: [https://data.nrel.gov/submissions]
+- Example Planning Tool: [https://www.urbansim.com/]
