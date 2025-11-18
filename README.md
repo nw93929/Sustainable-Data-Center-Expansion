@@ -46,6 +46,7 @@ Potential:
 - rasterio to read raster data e.g. elevation, climate, etc.
 - pint for energy unit conversion
 - coolprop for advanced thermal modeling
+- RISE for notebook presentation
 
 ### Resources
 
