@@ -1,6 +1,7 @@
 # Sustainable-Data-Center-Expansion
 Data To Impact Challenge hosted by UVA x LMI Solutions
 
+
 ### Ideas
 1. Sustainable Data Center Expansion Planning Tool
    - Help city planners, local communities, and developers evaluate siting options for potential data centers via geospatial analysis of environment
