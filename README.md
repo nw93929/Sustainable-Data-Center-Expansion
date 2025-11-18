@@ -49,8 +49,9 @@ Potential:
 - RISE for notebook presentation
 
 ### Data Sources
-- https://data.lib.vt.edu/articles/dataset/The_environmental_footprint_of_data_centers_in_the_United_States/14504913?utm_source=chatgpt.com
-- https://eta-publications.lbl.gov/sites/default/files/2024-12/lbnl-2024-united-states-data-center-energy-usage-report.pdf?utm_source=chatgpt.com
+- https://data.msdlive.org/records/65g71-a4731
+- https://www.fractracker.org/2025/07/national-data-centers-tracker/
+- 
 
 ### Resources
 
@@ -60,7 +61,7 @@ Potential:
 - NREL Data: [https://data.nrel.gov/submissions]
 - Example Planning Tool: [https://www.urbansim.com/]
 - Urbanism Github: [https://udst.github.io/urbansim/gettingstarted.html]
-- 
+
 
 
 
