@@ -60,6 +60,8 @@ Potential:
 
 ## Water Data Sources
 - https://waterdata.usgs.gov/va/nwis/water_use?format=html_table&rdb_compression=file&wu_area=State+Total&wu_year=ALL&wu_category=IN&wu_category_nms=Industrial (only 1985-2015 , per 5 years)
+- https://web.archive.org/web/20200501000000*/https://www.fairfaxwater.org/waterqualityreport  (2016, 2019-2024)
+
 
 ## Housing Data Sources
 
