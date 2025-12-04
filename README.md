@@ -74,6 +74,7 @@ Potential:
 - Example Planning Tool: [https://www.urbansim.com/]
 - Urbanism Github: [https://udst.github.io/urbansim/gettingstarted.html]
 - Data Centers: [https://www.datacenters.com/locations/united-states/virginia]
+- Impact of Data Centers: [https://www.pewresearch.org/short-reads/2025/10/24/what-we-know-about-energy-use-at-us-data-centers-amid-the-ai-boom/?utm_source=chatgpt.com]
 
 
 
