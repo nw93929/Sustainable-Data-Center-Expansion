@@ -55,6 +55,13 @@ Potential:
 ## Energy Data Sources:
 - https://catalog.data.gov/dataset/consumption-efficiency-data-and-statistics 
 - https://catalog.data.gov/dataset/electricity-data-and-statistics-application-programming-interface-api
+- https://www.eia.gov/state/seds/sep_use/notes/use_print.pdf (page 505)
+- 
+
+## Water Data Sources
+- https://waterdata.usgs.gov/va/nwis/water_use?format=html_table&rdb_compression=file&wu_area=State+Total&wu_year=ALL&wu_category=IN&wu_category_nms=Industrial (only 1985-2015 , per 5 years)
+
+## Housing Data Sources
 
 ### Resources
 
