@@ -51,7 +51,10 @@ Potential:
 ### Data Sources
 - https://data.msdlive.org/records/65g71-a4731
 - https://www.fractracker.org/2025/07/national-data-centers-tracker/
-- 
+
+## Energy Data Sources:
+- https://catalog.data.gov/dataset/consumption-efficiency-data-and-statistics 
+- https://catalog.data.gov/dataset/electricity-data-and-statistics-application-programming-interface-api
 
 ### Resources
 
