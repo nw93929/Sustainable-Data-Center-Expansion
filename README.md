@@ -58,6 +58,10 @@ Potential:
 - https://www.eia.gov/state/seds/sep_use/notes/use_print.pdf (page 505)
 - 
 
+###### Update, with Nathan's sources by email:
+- https://maps.nrel.gov/speed-to-power/data-viewer (arcgis-style map for energy available to data centers)
+- 
+
 ## Water Data Sources
 - https://waterdata.usgs.gov/va/nwis/water_use?format=html_table&rdb_compression=file&wu_area=State+Total&wu_year=ALL&wu_category=IN&wu_category_nms=Industrial (only 1985-2015 , per 5 years)
 - https://web.archive.org/web/20200501000000*/https://www.fairfaxwater.org/waterqualityreport  (2016, 2019-2024)
