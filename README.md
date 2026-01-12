@@ -56,7 +56,7 @@ Potential:
 - https://catalog.data.gov/dataset/consumption-efficiency-data-and-statistics 
 - https://catalog.data.gov/dataset/electricity-data-and-statistics-application-programming-interface-api
 - https://www.eia.gov/state/seds/sep_use/notes/use_print.pdf (page 505)
-- 
+- https://www.energy.gov/scep/slsc/lead-tool 
 
 ###### Update, with Nathan's sources by email:
 - https://maps.nrel.gov/speed-to-power/data-viewer (arcgis-style map for energy available to data centers)
